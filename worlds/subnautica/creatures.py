@@ -23,7 +23,7 @@ all_creatures: Dict[str, int] = {
     "Reaper Leviathan": 0,
     "Warper": 0,
     "Boomerang": 0,
-    "Biter": 200,
+    "Biter": 0,
     "Sand Shark": 200,
     "Bleeder": 200,
     "Crabsnake": 300,
