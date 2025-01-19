@@ -39,7 +39,7 @@ all_creatures: Dict[str, int] = {
     "Rockgrub": 400,
     "Ghost Leviathan": 500,
     "Ghost Leviathan Juvenile": 500,
-    "Spinefish": 600,
+    "Spinefish": 200,
     "Blighter": 600,
     "Blood Crawler": 600,
     "Ghostray": 1000,
