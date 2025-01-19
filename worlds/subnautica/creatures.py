@@ -51,7 +51,7 @@ all_creatures: Dict[str, int] = {
     "Lava Larva": 1300,
     "Lava Lizard": 1300,
     "Sea Dragon Leviathan": 1300,
-    "Cuddlefish": 300,
+    "Cuddlefish": 200,
     "Sea Emperor Juvenile": 1700,
 }
 
