@@ -31,7 +31,7 @@ all_creatures: Dict[str, int] = {
     "Oculus": 300,
     "Mesmer": 300,
     "Eyeye": 0,
-    "Reginald": 400,
+    "Reginald": 0,
     "Sea Treader Leviathan": 400,
     "Crabsquid": 400,
     "Ampeel": 400,
